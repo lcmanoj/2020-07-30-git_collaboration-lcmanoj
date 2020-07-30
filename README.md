@@ -7,3 +7,8 @@ Git collaboration notes
 - git branch -a : list all branches
 - git branch branchName : create branch where HEAD is
 - git switch branchName : move to branch
+
+# More commands
+- git fetch --prune : clean git history and remove references from remote
+- git branch -d branchName : removes branch from local
+- git checkout -b branchName
